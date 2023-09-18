@@ -17,7 +17,7 @@ I am Pinky Monterde, currently a soph student in the Polytechnic University of t
 - Interior Design
 - Photography
 
-### 💬 How to reach me?
+## 💬 How to reach me?
 - [PM via Facebook](https://web.facebook.com/mspinkymonterde/)
 - Message via
   personal email: pinkymonterde.ofc@gmail.com or
