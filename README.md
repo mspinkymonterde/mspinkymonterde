@@ -4,7 +4,7 @@ Hi, I’m Pinky👋😊
 I am Pinky Monterde, currently a soph student in the Polytechnic University of the Philippines.
 - A BS in Information Technology student💻​
 - A DOST-SEI scholar​​❤️​
-- Asst. Secretary @ AICTS📝
+- AICTS President📝
 - A cat lover​​🐈 meowww~🐾​
 - Not your sporty girl🤫 but I can run fast ㅋㅋㅋ
 - Brainy, they say🤷🏻‍♀️
