@@ -24,13 +24,16 @@ I am Pinky Monterde, currently a soph student in the Polytechnic University of t
   school email: pinkybmonterde@iskolarngbayan.pup.edu.ph
 
 
-### 🐍 Snake eating my Contributions  
+### 🐍 Snake eating my Contributions
 
 <div align="center">
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mspinkymonterde/mspinkymonterde/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mspinkymonterde/mspinkymonterde/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mspinkymonterde/mspinkymonterde/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation showing contribution graph" src="https://raw.githubusercontent.com/mspinkymonterde/mspinkymonterde/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-#
 
 
 <!---
