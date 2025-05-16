@@ -23,6 +23,14 @@ I am Pinky Monterde, currently a soph student in the Polytechnic University of t
   personal email: pinkymonterde.ofc@gmail.com or
   school email: pinkybmonterde@iskolarngbayan.pup.edu.ph
 
+### 🐍 Snake eating my Contributions  
+
+<div align="center">
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mspinkymonterde/mspinkymonterde/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+
 <!---
 pinkythefuturecomputer/pinkythefuturecomputer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
