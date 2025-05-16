@@ -28,7 +28,7 @@ I am Pinky Monterde, currently a soph student in the Polytechnic University of t
 
 <div align="center">
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KyneLaggui/KyneLaggui/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mspinkymonterde/mspinkymonterde/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 #
