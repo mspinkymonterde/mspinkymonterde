@@ -1,7 +1,7 @@
 Hi, I’m Pinky👋😊
 
 # 📫 Who am I?
-I am Pinky Monterde, currently a soph student in the Polytechnic University of the Philippines.
+I am Pinky Monterde, currently a senior student in the Polytechnic University of the Philippines.
 - A BS in Information Technology student💻​
 - A DOST-SEI scholar​​❤️​
 - AICTS Org President S.Y. 2024📝
